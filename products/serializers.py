@@ -20,6 +20,3 @@ class ProductSerializer(serializers.ModelSerializer):
     class Meta:
         model = Product
         fields = "__all__"
-
-    def get_status(self, instance):
-        return instance.status
