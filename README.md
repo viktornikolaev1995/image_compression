@@ -1,6 +1,6 @@
 # Products
 
-Склонировать репозиторий: git clone https://github.com/viktornikolaev1995/test_work_v2
+Склонировать репозиторий: `git clone https://github.com/viktornikolaev1995/test_work_v2`
 
 ## Настройка проекта
 
